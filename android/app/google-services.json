@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "119515660939",
+    "project_id": "voice-assistant-853df",
+    "storage_bucket": "voice-assistant-853df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119515660939:android:ce957e0732b40efa170a8e",
+        "android_client_info": {
+          "package_name": "com.example.gpt_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119515660939-tit8jvnfl9t21snr4ropt6dgtnu7sdtv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt1fHG1-VF_iIojRInVkMn2tzpsiunjN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119515660939-tit8jvnfl9t21snr4ropt6dgtnu7sdtv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
